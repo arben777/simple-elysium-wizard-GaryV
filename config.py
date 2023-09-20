@@ -3,10 +3,10 @@
 investor_specific_prompts = {
     "Gary Vaynerchuk": {
         "objectives": [
-            "Expand VeeFreinds Kids Toy and Book Offerings"
+            "Expand VaynerMedia's footprint to two new global markets"
         ],
         "tasks": [
-            "Identify the largest kid toy and book markets and creat plan to expand to those markets"
+            "Identify foreign high-growth cities and set up VaynerMedia hubs."
         ]
     },
     "InvestorB": {

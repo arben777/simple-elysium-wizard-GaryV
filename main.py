@@ -273,13 +273,13 @@ def main():
             st.markdown("## 🏁 What's your Objective:")
             OBJECTIVE = st.text_input(
                 "Alternative Example:\n" + "\n".join(f"• {objective}" for objective in investor_prompts['objectives']),
-                value="Expand VaynerMedia's footprint to two new global markets.",
+                value="Expand VeeFreinds Kids Toy and Book Offerings.",
             )
 
             st.markdown("## 🥇 Give Wizard an Initial Task Towards Objecive:")
             first_task = st.text_input(
                 "Alternative Example:\n" + "\n".join(f"• {task}" for task in investor_prompts['tasks']),
-                value="Identify foreign high-growth cities and set up VaynerMedia hubs.",
+                value="Identify the largest kid toy and book markets and creat plan to expand to those markets.",
             )
 
             max_iterations = st.number_input(
