@@ -1,7 +1,7 @@
 
 # Baby-AGI Investor Showcase
 
-Welcome to the Baby-AGI Investor Showcase! This application is designed to demonstrate the capabilities of a Baby-AGI system to potential investors. It provides an interactive interface where investors can input objectives and observe the AI in action, handling tasks, and completing objectives.
+Welcome to the Elysium Innovations Investor Showcase! This application is designed to demonstrate the capabilities of a Elysium Agent system to potential investors. It provides an interactive interface where investors can input objectives and observe the AI in action, handling tasks, and completing objectives.
 
 ## Features:
 
@@ -73,4 +73,4 @@ For deploying multiple versions (one for each investor):
 
 ## Conclusion:
 
-The Baby-AGI Investor Showcase is designed to provide a seamless demonstration experience for potential investors. By showcasing relevant prompts and an interactive AI, we hope to engage and impress our audience. If you have any questions or need further customizations, please refer to the documentation or reach out to our team.
+The Elysium Innovations Investor Showcase is designed to provide a seamless demonstration experience for potential investors. By showcasing relevant prompts and an interactive AI, we hope to engage and impress our audience. If you have any questions or need further customizations, please refer to the documentation or reach out to our team.
